@@ -1,0 +1,19 @@
+{
+  "name": "video-and-audio-upload-with-nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "6.1.0"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
